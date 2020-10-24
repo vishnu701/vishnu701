@@ -1,4 +1,5 @@
-### Hey there, I'm Vishnu 👋
+<img src="https://github.com/vishnu701/vishnu701/blob/master/intro.gif?raw=true" title="👋 Hi there!"/>
+
 ## I'm a Deep Learning and Computer Vision Enthusiast!!
 
 - 🔭 I'm a CSE Junior year student!
