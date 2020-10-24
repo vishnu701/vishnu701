@@ -8,13 +8,12 @@
 - ⚡ Fun fact: I love play guitar and Gymming
 - 📫 How to reach me: m.vishnu701@gmail.com
 
-
+<br />
 
 <img align="left" alt="vishnu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vishnu701&show_icons=true&hide_border=true&theme=darcula" />
 
 <br />
-<br />
-----
+
 
 ### Languages and Tools:
 
@@ -31,7 +30,6 @@
 </p>
 
 
-<br />
 <br />
 
 ----
