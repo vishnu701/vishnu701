@@ -1,19 +1,13 @@
 ### Hey there, I'm Vishnu 👋
 ## I'm a Deep Learning and Computer Vision Enthusiast!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I'm a CSE Junior year student!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love play guitar and Gymming
 - 📫 How to reach me: m.vishnu701@gmail.com
 
-<br />
-<img alt="vishnu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vishnu701&show_icons=true&hide_border=true&theme=darcula" />
-
-<br />
-
-----
 ### Languages and Tools:
 
 <p align="left">
@@ -27,7 +21,10 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
+
 <br />
+
+<img alt="vishnu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vishnu701&show_icons=true&hide_border=true&theme=darcula" />
 
 ----
 ### Connect with me:
