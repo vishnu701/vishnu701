@@ -10,10 +10,6 @@
 
 
 
-<br />
-
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -21,6 +17,7 @@
 
 </details>
 
+<br />
 ---
 
 ### Languages and Tools:
