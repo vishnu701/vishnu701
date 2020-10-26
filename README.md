@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love play guitar and Gymming
-- 📫 How to reach me: m.vishnu701@gmail.com
+- ⚡ Fun fact: I love listening to music.
+
+![Spotify](https://vishnu701.vercel.app/api/spotify)
 
 ### Languages and Tools:
 
@@ -33,8 +34,9 @@
 
 [<img align="left" alt="vishnu701 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_.d.h.e.e.r.a.j | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="email | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 [instagram]: https://instagram.com/_.d.h.e.e.r.a.j
 [linkedin]: https://linkedin.com/in/vishnu701
+[gmail]: m.vishnu701@gmail.com
