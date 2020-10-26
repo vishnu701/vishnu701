@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ For fun, I love listening to music.
+- ⚡ For fun, I love listening to music
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
@@ -39,4 +39,4 @@
 
 [instagram]: https://instagram.com/_.d.h.e.e.r.a.j
 [linkedin]: https://linkedin.com/in/vishnu701
-[gmail]: m.vishnu701@gmail.com
+[gmail]: mailto:m.vishnu701@gmail.com
