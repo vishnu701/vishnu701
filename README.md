@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love listening to music.
 
-![Spotify](https://vishnu701.vercel.app/api/spotify)
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
 ### Languages and Tools:
 
