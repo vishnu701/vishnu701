@@ -4,10 +4,10 @@
 
 <img align='right' src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e478c3224bca4d6340c3a08ee5586d4920748a4771f&rid=giphy.gif" width="250">
 
-- 🔭 I'm a CSE Final year student!
+- 🔭 I'm a recent undergrad!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Deep Learning Projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ For fun, I love listening to music
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
